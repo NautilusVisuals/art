@@ -567,7 +567,7 @@ var main = (function($) { var _ = {
 
 										// Set background image.
 											newSlide.$slideImage
-												.css('background-image', 'url(' + newSlide.url + ')');
+												.css('background-image', 'url("' + newSlide.url + '")');
 
 										// Mark as loaded.
 											newSlide.loaded = true;
