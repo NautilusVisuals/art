@@ -1223,7 +1223,7 @@ input, select, textarea {
 				background-repeat: no-repeat;
 				background-size: contain;
 				opacity: 0;
-				background-position: centre centre !important;
+				background-position: center center !important;
 			}
 
 			#viewer .slide:before {
